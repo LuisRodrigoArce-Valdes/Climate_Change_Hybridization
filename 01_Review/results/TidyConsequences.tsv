@@ -1,0 +1,70 @@
+Order	Sp1	Sp2	Region	Type	Outcome
+Diptera	Tomoplagia reticulata	Tomoplagia pallens	South America	Climate Change Induced Hybridisation	Introgression
+Diptera	Tomoplagia reticulata	Tomoplagia pallens	South America	Climate Change Induced Hybridisation	Rare Hybridization
+Hemiptera	Carbula humerigera	Carbula putoni	Asia	Hybrid Zone Dynamics Dependant On Climate Change	Hybrid Zone
+Hemiptera	Carbula humerigera	Carbula putoni	Asia	Hybrid Zone Dynamics Dependant On Climate Change	Introgression
+Hemiptera	Carbula humerigera	Carbula putoni	Asia	Hybrid Zone Dynamics Dependant On Climate Change	Species Fussion
+Hemiptera	Phymata americana	Phymata pennsylvanica	North America	Increased Expected Hybridisation Due To Climate Change	Hybrid Zone
+Hemiptera	Phymata americana	Phymata pennsylvanica	North America	Increased Expected Hybridisation Due To Climate Change	Introgression
+Hymenoptera	Apis mellifera scutellata	Apis mellifera ssp	Worldwide	Increased Expected Hybridisation Due To Climate Change	Hybrid Zone
+Hymenoptera	Apis mellifera scutellata	Apis mellifera ssp	Worldwide	Increased Expected Hybridisation Due To Climate Change	Introgression
+Hymenoptera	Apis mellifera scutellata	Apis mellifera ssp	Worldwide	Increased Expected Hybridisation Due To Climate Change	Species Fussion
+Hymenoptera	Formica polyctena	Formica aquilonia	Europe	Increased Expected Hybridisation Due To Climate Change	Hybrid Zone
+Hymenoptera	Formica polyctena	Formica aquilonia	Europe	Increased Expected Hybridisation Due To Climate Change	Species Fussion
+Hymenoptera	Formica polyctena	Formica aquilonia	Europe	Increased Expected Hybridisation Due To Climate Change	Introgression
+Hymenoptera	Formica polyctena	Formica aquilonia	Europe	Increased Expected Hybridisation Due To Climate Change	Adaptive Introgression
+Hymenoptera	Melipona quadrifasciata quadrifasciata	Melipona quadrifasciata anthidioides	South America	Increased Expected Hybridisation Due To Climate Change	Hybrid Zone
+Hymenoptera	Melipona quadrifasciata quadrifasciata	Melipona quadrifasciata anthidioides	South America	Increased Expected Hybridisation Due To Climate Change	Genetic Swamping
+Hymenoptera	Solenopsis invicta	Solenopsis richteri	North America	Climate Change Induced Hybridisation	Hybrid Zone
+Hymenoptera	Solenopsis invicta	Solenopsis richteri	North America	Climate Change Induced Hybridisation	Introgression
+Hymenoptera	Solenopsis invicta	Solenopsis richteri	North America	Climate Change Induced Hybridisation	Species Fussion
+Isoptera	Coptotermes formosanus	Coptotermes gestroi	North America, Asia	Expected Range Expansion And Hybridisation	Introgression
+Lepidoptera	Aricia agestis	Aricia artaxerxes	Europe	Increased Expected Hybridisation Due To Climate Change	Hybrid Zone
+Lepidoptera	Aricia agestis	Aricia artaxerxes	Europe	Increased Expected Hybridisation Due To Climate Change	Introgression
+Lepidoptera	Aricia agestis	Aricia artaxerxes	Europe	Increased Expected Hybridisation Due To Climate Change	Species Fussion
+Lepidoptera	Aricia agestis	Aricia artaxerxes	Europe	Increased Expected Hybridisation Due To Climate Change	Local Extinction
+Lepidoptera	Colias eurytheme	Colias philodice eriphyle	North America	Hybrid Zone Dynamics Dependant On Climate Change	Hybrid Zone
+Lepidoptera	Colias eurytheme	Colias philodice eriphyle	North America	Hybrid Zone Dynamics Dependant On Climate Change	Introgression
+Lepidoptera	Helicoverpa armigera	Helicoverpa zea	South America	Hybrid Zone Dynamics Dependant On Climate Change	Hybrid Zone
+Lepidoptera	Helicoverpa armigera	Helicoverpa zea	South America	Hybrid Zone Dynamics Dependant On Climate Change	Introgression
+Lepidoptera	Helicoverpa armigera	Helicoverpa zea	South America	Hybrid Zone Dynamics Dependant On Climate Change	Adaptive Introgression
+Lepidoptera	Hyles euphorbiae	Hyles tithymali	Europe, Asia, Africa	Increased Expected Hybridisation Due To Climate Change	Hybrid Zone
+Lepidoptera	Hyles euphorbiae	Hyles tithymali	Europe, Asia, Africa	Increased Expected Hybridisation Due To Climate Change	Introgression
+Lepidoptera	Hyles euphorbiae	Hyles tithymali	Europe, Asia, Africa	Increased Expected Hybridisation Due To Climate Change	Species Fussion
+Lepidoptera	Limenitis arthemis astyanax 	Limenitis arthemis arthemis 	North America	Hybrid Zone Dynamics Dependant On Climate Change	Hybrid Zone
+Lepidoptera	Limenitis arthemis astyanax 	Limenitis arthemis arthemis 	North America	Hybrid Zone Dynamics Dependant On Climate Change	Introgression
+Lepidoptera	Operophtera brumata	Operophtera bruceata	North America	Hybrid Zone Dynamics Dependant On Climate Change	Introgression
+Lepidoptera	Papilio glaucus	Papilio canadensis	North America	Climate Change Induced Hybridisation	Hybrid Speciation
+Lepidoptera	Papilio glaucus	Papilio canadensis	North America	Climate Change Induced Hybridisation	Hybrid Zone
+Lepidoptera	Papilio glaucus	Papilio canadensis	North America	Climate Change Induced Hybridisation	Introgression
+Lepidoptera	Papilio machaon britannicus	Papilio machaon gorganus	Europe	Expected Range Expansion And Hybridisation	Genetic Swamping
+Lepidoptera	Papilio machaon britannicus	Papilio machaon gorganus	Europe	Expected Range Expansion And Hybridisation	Local Extinction
+Lepidoptera	Zizina emelina	Zizina otis	Asia	Expected Range Expansion And Hybridisation	Introgression
+Lepidoptera	Zizina emelina	Zizina otis	Asia	Expected Range Expansion And Hybridisation	Local Extinction
+Odonata	Calopteryx splendens	Calopteryx virgo	Europe	Climate Change Induced Hybridisation	Hybrid Zone
+Odonata	Calopteryx splendens	Calopteryx virgo	Europe	Climate Change Induced Hybridisation	Rare Hybridization
+Odonata	Cordulegaster trinacriae	Cordulegaster boltonii	Europe	Hybrid Zone Dynamics Dependant On Climate Change	Hybrid Zone
+Odonata	Cordulegaster trinacriae	Cordulegaster boltonii	Europe	Hybrid Zone Dynamics Dependant On Climate Change	Introgression
+Odonata	Ischnura damula	Ischnura demorsa	North America	Hybrid Zone Dynamics Dependant On Climate Change	NA
+Odonata	Ischnura denticollis	Ischnura gemina	North America	Hybrid Zone Dynamics Dependant On Climate Change	Introgression
+Odonata	Ischnura denticollis	Ischnura gemina	North America	Hybrid Zone Dynamics Dependant On Climate Change	Local Extinction
+Odonata	Ischnura denticollis	Ischnura gemina	North America	Hybrid Zone Dynamics Dependant On Climate Change	Genetic Swamping
+Odonata	Ischnura denticollis	Ischnura gemina	North America	Hybrid Zone Dynamics Dependant On Climate Change	Adaptive Introgression
+Odonata	Ischnura elegans	Ischnura graellsii	Europe	Climate Change Induced Hybridisation	Hybrid Zone
+Odonata	Ischnura elegans	Ischnura graellsii	Europe	Climate Change Induced Hybridisation	Introgression
+Odonata	Ischnura elegans	Ischnura graellsii	Europe	Climate Change Induced Hybridisation	Reinforcement
+Odonata	Ischnura elegans	Ischnura graellsii	Europe	Climate Change Induced Hybridisation	Adaptive Introgression
+Orthoptera	Allonemobius fasciatus	Allonemobius socius	North America	Climate Change Induced Hybridisation	Hybrid Zone
+Orthoptera	Allonemobius fasciatus	Allonemobius socius	North America	Climate Change Induced Hybridisation	Species Fussion
+Orthoptera	Allonemobius fasciatus	Allonemobius socius	North America	Climate Change Induced Hybridisation	Introgression
+Orthoptera	Gryllus firmus	Gryllus pennsylvanicus	North America	Hybrid Zone Dynamics Dependant On Climate Change	Introgression
+Orthoptera	Gryllus firmus	Gryllus pennsylvanicus	North America	Hybrid Zone Dynamics Dependant On Climate Change	Hybrid Zone
+Orthoptera	Gryllus firmus	Gryllus pennsylvanicus	North America	Hybrid Zone Dynamics Dependant On Climate Change	Reinforcement
+Orthoptera	Phaulacridium marginale	Phaulacridium otagoense	Oceania	Climate Change Induced Hybridisation	Introgression
+Orthoptera	Phaulacridium marginale	Phaulacridium otagoense	Oceania	Climate Change Induced Hybridisation	Hybrid Zone
+Orthoptera	Phaulacridium marginale	Phaulacridium otagoense	Oceania	Climate Change Induced Hybridisation	Genetic Swamping
+Orthoptera	Pseudochorthippus montanus	Pseudochorthippus parallelus	Europe	Increased Expected Hybridisation Due To Climate Change	Local Extinction
+Orthoptera	Pseudochorthippus montanus	Pseudochorthippus parallelus	Europe	Increased Expected Hybridisation Due To Climate Change	Hybrid Zone
+Orthoptera	Pseudochorthippus montanus	Pseudochorthippus parallelus	Europe	Increased Expected Hybridisation Due To Climate Change	Introgression
+Orthoptera	Pseudochorthippus montanus	Pseudochorthippus parallelus	Europe	Increased Expected Hybridisation Due To Climate Change	Genetic Swamping
+Orthoptera	Trimerotropis agrestis	Trimerotropis maritima	North America	Climate Change Induced Hybridisation	Rare Hybridization

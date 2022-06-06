@@ -1,2 +1,8 @@
+# COIs files at Linux
+02_COIs/data/
+
 # Manuscript at Windows
 00_Manuscript/
+
+# R
+.Rproj.user
