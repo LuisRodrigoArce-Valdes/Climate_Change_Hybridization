@@ -209,6 +209,14 @@ radarchart <- function(df, axistype=0, seg=4, pty=16, pcol=1:8, plty=1:6, plwd=1
   }
 }
 # Spider Plots ####
+
+# $$$$$$$$$ To edit categories names $$$$$$$ #
+Tidy.Data[Tidy.Data=="Climate Change Induced Hybridisation"] <- "Climate Change Induced Hybridization"
+Tidy.Data[Tidy.Data=="Hybrid Zone Dynamics Dependant On Climate Change"] <- "Hybrid Zone Dynamics\nDependent On Climate Change"
+Tidy.Data[Tidy.Data=="Increased Expected Hybridisation Due To Climate Change"] <- "Hybrid Zone Dynamics\nDependent On Climate Change"
+Tidy.Data[Tidy.Data=="Expected Range Expansion And Hybridisation"] <- "Expected Range Expansion\nAnd Hybridization"
+# $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ #
+
 # Creating a dataframe per plot
 spiders <- list()
 spiders[["Outcomes"]] <- as.data.frame(table(Tidy.Data$Outcome))
@@ -237,30 +245,28 @@ for(i in 1:length(spiders)){
   spiders[[i]] <- spiders[[i]][,c(1,ncol(spiders[[i]]):2)]
 }
 
-# Adding line brakes
-colnames(spiders$Type)  <- c("Climate Change Induced Hybridization",
-                                 "Increased Expected Hybridization\nDue To Climate Change",
-                                 "Hybrid Zone Dynamics\nDependant On Climate Change",
-                                 "Expected Range Expansion\nAnd Hybridization")
-
 # Editing names of outcomes orders
 spiders$Outcomes <- spiders$Outcomes[,c(7,2,5,9,4,3,6,8,1)]
 colnames(spiders$Outcomes)[5] <- "Rare\nHybridization"
+
+# Changing order
+spiders <- spiders[c("Type","Outcomes", "Order", "Regions")]
 
 # Color vector
 colors_border=c(rgb(0.2,0.5,0.5,0.9), rgb(0.8,0.2,0.5,0.9), rgb(0.7,0.5,0.1,0.9), rgb(0.4,0.5,0.3,0.9) )
 colors_in=c(rgb(0.2,0.5,0.5,0.4), rgb(0.8,0.2,0.5,0.4), rgb(0.7,0.5,0.1,0.4), rgb(0.4,0.5,0.3,0.4) )
 
 # Spider plot
-png("../results/04_Spider_Plots.png", width = 55, height = 26, units = "cm", res = 300)
-par(mfrow=c(2,2), family="serif")
 for(i in 1:length(spiders)) {
+  png(paste0("../results/04_Spider_Plot_",i,".png"), width = 45.5, height = 26, units = "cm", res = 300)
+  par(family="serif")
   radarchart(spiders[[i]], axistype = 1,
              # custom polygon
-             pcol=colors_border[i] , pfcol=colors_in[i] , plwd=2 , plty=1, caxislabels=seq(0,spiders[[i]][1,1], length.out=5),
+             pcol=colors_border[i] , pfcol=colors_in[i] , plwd=2 , plty=1, caxislabels=seq(0,spiders[[i]][1,1], length.out=5), calcex=1.5,
              #custom the grid
-             cglcol="grey", cglty=1, axislabcol="grey", cglwd=0.8,
+             cglcol="black", cglty=1, axislabcol="black", cglwd=0.8,
              #custom labels
-             vlcex=1.65)
+             vlcex=2.5)
+  dev.off()
 }
-dev.off()
+
